@@ -1,0 +1,2 @@
+# ELCollectionViewController
+一个水平CollectionView滑动Demo,支持点击移动与手指滑动
